@@ -1,5 +1,5 @@
 # SincNet-Tensorflow
-Tensorflow implementation of SincNet ([Ravanelli & Bengio](https://github.com/mravanelli/SincNet)) and its application to decode motor imagery from EEG data
+Tensorflow implementation of SincNet ([Ravanelli & Bengio](https://github.com/mravanelli/SincNet)) and its application to decode motor imagination from EEG data
 
 ## Results 
 
