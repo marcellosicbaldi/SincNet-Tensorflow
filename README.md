@@ -9,6 +9,6 @@ The model reaches a classification accuracy of 87%
 
 ## Interpretation
 
-This are the band pass filters learned by the model during training. We can see that the brain rhythms that help most in discrimination between different imagined movemement are the alpha rhythm and low beta rhythm.
+These are the band pass filters learned by the model during training. We can see that the brain rhythms that help most in discrimination between different imagined movemement are the alpha rhythm and low beta rhythm.
 
 ![32_filters_SincShallowNet](https://user-images.githubusercontent.com/55695116/174432418-de04c434-34f3-40e9-a2bb-c35e81a4bd47.png)
